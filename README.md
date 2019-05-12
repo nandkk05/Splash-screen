@@ -1,8 +1,5 @@
 # Splash-screen Android Studio
 
-Download this Raw file (Android studio project).
+This is a basic coding package for Android. You can clone this file for your personal use. This is a sample Android Studio project for educational purpose only. 
 
-This is a sample Android Studio project for educational purpose only. 
-
-All Rights Reserved.
-©️Copyright
+Clone and Enjoy 😊
